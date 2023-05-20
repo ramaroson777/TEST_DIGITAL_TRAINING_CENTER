@@ -1,5 +1,4 @@
 <?php
-// 0330225628
 // Récupérer les données API jsonplaceholder.typicode.com/comments
 $apiUrl = 'https://jsonplaceholder.typicode.com/comments';
 
